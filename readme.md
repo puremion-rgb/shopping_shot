@@ -3,7 +3,7 @@
 > 쇼핑몰을 돌아다니다 마음에 드는 상품 이미지를 **우클릭 한 번**으로 담아 두는 Chrome 확장 프로그램입니다.
 > 담은 상품은 보던 화면 옆 사이드 패널에 모이고, 나만의 메모와 색으로 표시해 두었다가 다시 찾아볼 수 있어요.
 
-**🔗 사용 화면 미리보기** · https://portfolio-seven-kappa-dymq6ftb1l.vercel.app/shopping-shot-demo/index.html
+**🔗 사용 화면 미리보기** 
 
 <p>
   <img src="./docs/shopping-shot-panel.webp" width="170" alt="사이드 패널에 담긴 상품">
